@@ -19,4 +19,7 @@ Then run the command, and listen to [http://localhost:5000](http://localhost:500
 
 >node server.js
 
-The folder whose files are share is the /sharedFiles folder
+Put the files to be shared in the <b>sharedFiles</b> folder. I have put a sample file.
+
+
+Have fun.. 
