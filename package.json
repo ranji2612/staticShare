@@ -1,0 +1,10 @@
+{
+  "name"         : "staticShare",
+  "version"      : "1.0.0",
+  "description"  : "shareStaticFiles",
+  "main"         : "server.js",
+  "author"       : "Ranjith",
+  "dependencies" : {
+    "express"    : "~3.4.4"
+  }
+}
